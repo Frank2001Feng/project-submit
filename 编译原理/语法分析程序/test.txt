@@ -1,0 +1,12 @@
+zh Identifier
+= operation
+1 Constant
++ operation
+( delimiter
+x Identifier
++ operation
+8023 Constant
+) delimiter
+* operation
+13.14 Constant
+; delimiter

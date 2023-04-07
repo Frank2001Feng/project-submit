@@ -1,0 +1,29 @@
+program example
+begin 
+int main()
+{
+    char word[20];
+    
+    int secret=8023;
+    int life=100;
+    float happniess=13.14;
+    double you=23.268;
+    bool answer=false;
+    read(name);
+    if(name==you)
+    {
+        do{
+            happniess*=1.5;
+            write(secret);
+            life--;
+        }while(life);
+    }
+    else
+    {
+        write(word);
+    }
+    I$8023$U
+    ###
+    return 0;
+}
+end
