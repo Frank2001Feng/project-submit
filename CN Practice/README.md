@@ -6,3 +6,6 @@ This is a practice project for CN.
 `Final document`:the final report of each group member
 
 `Related`:the related documents of the course
+
+
+![](计网实践组网.png)
